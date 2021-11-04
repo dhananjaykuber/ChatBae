@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "35572209617",
+    "project_id": "chat-bae-bf3a3",
+    "storage_bucket": "chat-bae-bf3a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35572209617:android:13b0ce2a8444ab9acb72f0",
+        "android_client_info": {
+          "package_name": "com.chatbae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35572209617-mq08cfcbl7ulcp2sn1s0ihsob9nn8e9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatbae",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "35572209617-0saq5ivo7bo4e7b7ubtr68nc7k7umc6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXSPPPCKY5NVGZkhpEPUDdWCpoYyOBJFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35572209617-0saq5ivo7bo4e7b7ubtr68nc7k7umc6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
